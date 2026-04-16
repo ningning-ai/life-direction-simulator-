@@ -227,7 +227,7 @@ Built with a little of warmth for anyone trying to think more clearly about life
 ## 一个小小的愿望
 
 希望这个项目不能替你回答“人生的标准答案”，  
-但至少能陪你把未来几种可能性，先认真活一遍。
+但至少能陪你把未来几种可能性，先认真推演一遍。
 
 > **把人生选择，从纠结，变成推演。**
 
