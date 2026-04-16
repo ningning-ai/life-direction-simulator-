@@ -1,26 +1,26 @@
-## 方法来源说明
-
-本项目的方法灵感，来自斯坦福 Life Design / Designing Your Life 体系中的 **Odyssey Planning** 思路。该思路强调：通过推演多条不同的人生路径，帮助人们更清楚地理解自己的取舍、偏好与下一步行动，而不是寻找唯一正确答案。 
-
-本仓库是一个**独立的、AI 辅助的人生方向模拟工具化实现**，用于反思、推演与低成本验证。  
-它**不是**斯坦福官方产品、官方课程配套工具，也**不代表**官方立场。 
-
 # 人生方向模拟推演师
 ### Life Direction Simulator
+
+**把人生选择，从纠结，变成推演。**
 
 不是替你决定人生，  
 而是帮你把几种可能的人生方向，提前推演一遍。
 
-This is a life direction simulation project inspired by Odyssey Plan.  
-It helps people turn vague life choices into clearer, more comparable, and more testable paths.
+> 受 Stanford Life Design / Odyssey Planning 思路启发，但为独立实现，非官方产品。
 
----
+## 方法来源说明
+
+本项目的方法灵感，来自斯坦福 Life Design / Designing Your Life 体系中的 **Odyssey Planning** 思路。
+
+本仓库是一个**独立的、AI 辅助的人生方向模拟工具化实现**，用于反思、推演与低成本验证。  
+它**不是**斯坦福官方产品、官方课程配套工具，也**不代表**官方立场。
 
 ## 这是什么
 
-**人生方向模拟推演师** 是一个基于 **Odyssey Plan / 人生设计思路** 构建的 AI Skill。
-
+这是一个基于 **Odyssey Plan / 人生设计思路** 构建的 AI 项目。  
 它不预测命运，不给宿命式答案，也不假装替你做决定。  
+它想做的，是帮助人们把模糊的人生选择，转化为可以推演、比较和验证的多路径方案。
+
 它做的事情是：
 
 - 帮你梳理当前状态
