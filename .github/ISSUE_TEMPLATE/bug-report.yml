@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a problem with prompts, templates, structure, or repository files
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug.
+        Please describe the issue as clearly as possible so it can be fixed quickly.
+
+  - type: input
+    id: location
+    attributes:
+      label: Where did the issue happen?
+      description: Which file or part is affected?
+      placeholder: README.md / skill/system-prompt.md / docs/faq.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+      placeholder: The structure is broken / the prompt is unclear / the YAML file is invalid...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+      placeholder: I expected the issue template to work / the README to render correctly...
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Optional
+      placeholder: Browser, screenshots, copied text, or anything else that may help.
+    validations:
+      required: false
