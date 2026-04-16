@@ -1,5 +1,8 @@
 # Example Case: Relationship Balance
 
+> This is a fictional composite example for demonstration only.  
+> 以下为虚构的合成案例，仅用于演示方法，不对应任何真实个人。
+
 ## User Question
 
 我现在在感情和事业之间很拉扯。一边想投入关系，一边又怕失去成长速度。我该怎么判断？
